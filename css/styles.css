@@ -67,7 +67,7 @@ nav ul li a {
 .content__wrap__left a:hover {
     background-color: #5f8f53;
 }
-.mobile__nav {
+.mobile__nav, #mobile_nav {
     display: none
 }
 .mobile__content__wrap {
